@@ -1,10 +1,7 @@
 ---
 layout: page
 title: Network
-date: 2010-11-04 05:15
-author: phislife
-comments: true
-categories: []
+permalink: network
 ---
 &nbsp;
 <ol>
