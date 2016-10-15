@@ -1,11 +1,8 @@
 ---
 layout: page
 title: Contact
-date: 2011-03-15 12:07
-author: phislife
-comments: true
-categories: []
 ---
+
 <blockquote>[contact-form 1 "Contact form 1"]<br>
 <dl class="entry-meta"> <!--ADSENSE -->
 <script type="text/javascript">// <![CDATA[
