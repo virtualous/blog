@@ -1,10 +1,6 @@
 ---
 layout: page
 title: About
-date: 2010-09-26 21:57
-author: phislife
-comments: true
-categories: []
 ---
 This website is a home for tips and opportunities about a wide range of different topics about Philippine Island Living.
 
