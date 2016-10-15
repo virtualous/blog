@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: about
 ---
 This website is a home for tips and opportunities about a wide range of different topics about Philippine Island Living.
 
