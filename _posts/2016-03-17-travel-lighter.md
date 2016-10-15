@@ -9,7 +9,7 @@ If you travel often, the most common complaint would be the weight that you carr
 
 I hate carrying a lot of things. 
 
-I often use way less tha than I bring.
+I often use way less than I bring.
 
 I love traveling but I hate the stress I get from the heavy weight I have to carry around.
 
@@ -37,7 +37,7 @@ Since I already expect myself to stay overnight or for a couple of days with my 
 
 I can reduce my travel time and more importantly, travel weight by leaving a small bag at the location.
 
-My borne box contains. 
+My Bourne box contains. 
 
 - 2 comfortable shirts. 
 - 2 pairs of socks 
@@ -50,7 +50,7 @@ And we're all set.
 
 Sometimes I'll need soap so I can wash my clothes but these things are easily available in a nearby store or I can borrow from my friends.
 
-Have you tried this lifehack before? What else would you leave in your Borne Box? 
+Have you tried this lifehack before? What else would you leave in your Bourne Box? 
 
 Send me a message and I'll add it to the post.
 
