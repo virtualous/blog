@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Major Opportunities in the Philippines: Pwede Na
+title: Major Opportunities in the Philippines Pwede Na
 date: 2011-03-02 13:02
 author: phislife
 comments: true
