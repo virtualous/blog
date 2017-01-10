@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Major Business Opportunity in the Philippines: Filipino Time
+title: Major Business Opportunity in the Philippines Filipino Time
 date: 2011-03-08 10:14
 author: phislife
 comments: true
