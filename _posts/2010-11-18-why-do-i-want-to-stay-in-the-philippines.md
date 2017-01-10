@@ -4,11 +4,14 @@ title: Why Do I Want To Stay In The Philippines?
 date: 2010-11-18 22:55
 author: phislife
 comments: true
-categories: [blog, Philippines, Philippines, Uncategorized]
----
-<strong>Post written by<a href="../../../../../about"> Kevin Olega</a>. Follow me on<a href="http://twitter.com/kevinolega"> twitter.</a></strong>
 
-Its a common mindset for Filipinos to want leave the country to work overseas for higher pay. Since Filipinos are service oriented we took advantage of this by having our people work for expat packages or sending workers to places with a significantly higher pay. Filipinos have been doing this for a long time and is getting better at it so it's pretty common now a days.
+---
+
+Its a common mindset for Filipinos to want leave the country to work overseas for higher pay. 
+
+Since Filipinos are service oriented we took advantage of this by having our people work for expat packages or sending workers to places with a significantly higher pay. 
+
+Filipinos have been doing this for a long time and is getting better at it so it's pretty common these da.
 
 The only annoying thing is people ask me often why I haven't gone on to this trend. Aside from the fact that I won't leave Ish and my family to work somewhere else, is that I am confident that I am capable of working and living from anywhere and I prefer to work here at home (The Philippines).
 
