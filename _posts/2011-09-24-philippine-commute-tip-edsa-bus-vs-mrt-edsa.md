@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Philippine Commute Tip: EDSA Bus vs MRT EDSA
+title: Philippine Commute Tip EDSA Bus vs MRT EDSA
 date: 2011-09-24 09:09
 author: phislife
 comments: true
