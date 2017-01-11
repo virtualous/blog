@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Find Prices of Various Things Online at Sulit.com.ph
+title: How to Find Prices of Various Things Online at OLX
 date: 2011-10-04 05:27
 author: phislife
 comments: true
