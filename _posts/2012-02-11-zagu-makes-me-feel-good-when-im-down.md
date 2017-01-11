@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zagu Makes Me Feel Good When I'm Down
+title: Zagu Makes Me Feel Good When Im Down
 date: 2012-02-11 22:07
 author: phislife
 comments: true
