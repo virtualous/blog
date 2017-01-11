@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Major Business Opportunity in the Philippines: News and Media Coverage
+title: Major Business Opportunity in the Philippines News and Media Coverage
 date: 2011-03-23 11:34
 author: phislife
 comments: true
