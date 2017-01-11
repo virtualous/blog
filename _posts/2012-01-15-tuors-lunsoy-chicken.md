@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tuor's Lousoy Chicken
+title: Tuor Lousoy Chicken
 date: 2012-01-15 17:01
 author: phislife
 comments: true
