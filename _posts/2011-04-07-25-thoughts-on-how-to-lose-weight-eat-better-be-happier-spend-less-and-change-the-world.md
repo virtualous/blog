@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 25 Thoughts on How To Lose Weight, Eat Better, Be Happier, Spend Less And Change The World.
+title: 25 Philippine Lifehacks
 date: 2011-04-07 05:01
 author: phislife
 comments: true
