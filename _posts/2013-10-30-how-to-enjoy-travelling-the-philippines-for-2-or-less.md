@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Enjoy Travelling the Philippines for $2 or less
+title: How to Enjoy Travelling the Philippines for Two Dollars or less
 date: 2013-10-30 18:16
 author: phislife
 comments: true
