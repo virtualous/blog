@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eva Soquena Interview:Philippine Lifestyle, Food and Travel
+title: Eva Soquena Interview":"Philippine Lifestyle"," Food and Travel
 date: 2012-07-31 18:17
 author: phislife
 comments: true
