@@ -8,9 +8,9 @@ img: GiantFD806.jpg
 categories: [blog, Cycling]
 ---
 
-![Giant FD 806](https://raw.githubusercontent.com/kevinolega/philippineislandliving/master/images/GiantFD806.jpg "Giant Entry Level Folding Bike")
-
 I got the Giant FD 806 folding bike as an impulse buy. I wanted a folding bike so I can go bi-modal for my Parañaque to Makati commute. After looking at all the bike shops in Pasong Tamo this bike was the best I could buy for my budget. I used it for a month, got tired and stopped.
+
+![Giant FD 806](https://raw.githubusercontent.com/kevinolega/philippineislandliving/master/images/GiantFD806.jpg "Giant Entry Level Folding Bike")
 
 I then tried again but it felt it was more trouble than it's worth.
 
