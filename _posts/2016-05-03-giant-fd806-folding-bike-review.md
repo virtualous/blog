@@ -22,19 +22,19 @@ I also took this bike from Parañaque to Makati then Mandaluyong to Marikina to 
 
 The bike holds up in long range rides 30km a day or so better than I expected. It's true that small wheels require you to pedal more and the ride is slower if you compare it to my mountain bike but the ride is comfortable enough that I don't notice.
 
-| Specifications for the Giant FD-806 |
+| **Specifications for the Giant FD-806** |
 | --- | --- | 
 | Frame | ALUXX aluminum |
 | Fork | ALUXX aluminum |
 | Shock | NA |
-| COMPONENTS | 
+| **COMPONENTS** | 
 | --- | ---
 | Handlebar | Alloy |
 | Stem | Alloy Folding |
 | Seatpost | Alloy |
 | Saddle | Giant Comfort |
 | Pedals | Folding |
-| DRIVETRAIN | 
+| **DRIVETRAIN** | 
 |--- | --- |
 | Shifters | Shimano, SL-RS41 |
 | Front Derailleur | N/A |
@@ -45,7 +45,7 @@ The bike holds up in long range rides 30km a day or so better than I expected. I
 | Chain | Standard |
 | Crankset | 52T |
 | Bottom Bracket | Cartridge |
-| WHEELS |
+| **WHEELS** |
 | --- | ---|
 | Rims | Giant Alloy |
 | Hubs | Alloy |
