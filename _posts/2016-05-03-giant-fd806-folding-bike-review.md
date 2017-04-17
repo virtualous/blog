@@ -66,7 +66,7 @@ Tires | Kenda
 - Adjustable and really comfortable seat. My butt never hurt riding these even if I'm on a two hour ride.
 - Cute bell.
 - Folding pedals. Nice for storage
-</ul>
+
 
 #### Disadvantages
 
@@ -85,10 +85,10 @@ I tried removing the rear carrier and the mud guards this summer. It felt that t
 
 #### Should you buy it?
 
-<ul>
+
 - For short distance rides about 5-10km -- it's a good bike.
 - For bike commute that involves taking it to a bus or a train it'll be more trouble than it's worth.
-</ul>
+
 
 #### Recommendation
 
