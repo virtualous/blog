@@ -4,6 +4,7 @@ title: Giant FD806 Folding Bike Review
 date: 2016-05-03 11:48
 author: phislife
 comments: true
+img: GiantFD806.jpg
 categories: [blog, Cycling]
 ---
 
