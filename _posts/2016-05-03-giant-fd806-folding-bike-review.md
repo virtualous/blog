@@ -24,40 +24,40 @@ The bike holds up in long range rides 30km a day or so better than I expected. I
 
 #### Specifications for the Giant FD-806
 
---- | ---
-Frame: | ALUXX aluminum
-Fork | ALUXX aluminum
-Shock | N/A
+| --- | --- | 
+| Frame: | ALUXX aluminum |
+| Fork | ALUXX aluminum |
+| Shock | N/A |
 
 #### COMPONENTS
 
---- | ---
-Handlebar | Alloy
-Stem | Alloy Folding
-Seatpost | Alloy
-Saddle | Giant Comfort
-Pedals | Folding
+| --- | ---
+| Handlebar | Alloy | 
+| Stem | Alloy Folding |
+| Seatpost | Alloy |
+| Saddle | Giant Comfort |
+| Pedals | Folding |
 
 #### DRIVETRAIN
 
 --- | ---
-Shifters | Shimano, SL-RS41
-Front Derailleur | N/A
-Rear Derailleur |  Shimano
-Brakes | Direct Pull
-Brake Levers | Alloy Comfort
-Cassette | Shimano 6s 14-24T
-Chain | Standard
-Crankset | 52T
-Bottom Bracket: Cartridge
+| Shifters | Shimano, SL-RS41 |
+| Front Derailleur | N/A |
+| Rear Derailleur |  Shimano |
+| Brakes | Direct Pull |
+| Brake Levers | Alloy Comfort |
+| Cassette | Shimano 6s 14-24T |
+| Chain | Standard |
+| Crankset | 52T |
+| Bottom Bracket: Cartridge |
 
 #### WHEELS
 
---- | ---
-Rims | Giant Alloy
-Hubs | Alloy
-Spokes | Stainless 14G
-Tires | Kenda
+| --- | ---|
+| Rims | Giant Alloy |
+| Hubs | Alloy |
+| Spokes | Stainless 14G |
+| Tires | Kenda |
 
 #### Advantages
 
