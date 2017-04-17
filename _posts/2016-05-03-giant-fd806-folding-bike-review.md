@@ -24,9 +24,9 @@ The bike holds up in long range rides 30km a day or so better than I expected. I
 
 | Specifications for the Giant FD-806 |
 | --- | --- | 
-| Frame: | ALUXX aluminum |
+| Frame | ALUXX aluminum |
 | Fork | ALUXX aluminum |
-| Shock | N/A |
+| Shock | NA |
 | COMPONENTS | 
 | --- | ---
 | Handlebar | Alloy |
