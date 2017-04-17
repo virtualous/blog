@@ -24,23 +24,21 @@ The bike holds up in long range rides 30km a day or so better than I expected. I
 
 #### Specifications for the Giant FD-806
 
+
 | --- | --- | 
 | Frame: | ALUXX aluminum |
 | Fork | ALUXX aluminum |
 | Shock | N/A |
 
-#### COMPONENTS
-
+| COMPONENTS | 
 | --- | ---
-| Handlebar | Alloy | 
+| Handlebar | Alloy |
 | Stem | Alloy Folding |
 | Seatpost | Alloy |
 | Saddle | Giant Comfort |
 | Pedals | Folding |
-
-#### DRIVETRAIN
-
---- | ---
+| DRIVETRAIN | 
+|--- | --- |
 | Shifters | Shimano, SL-RS41 |
 | Front Derailleur | N/A |
 | Rear Derailleur |  Shimano |
@@ -50,9 +48,7 @@ The bike holds up in long range rides 30km a day or so better than I expected. I
 | Chain | Standard |
 | Crankset | 52T |
 | Bottom Bracket: Cartridge |
-
-#### WHEELS
-
+| WHEELS |
 | --- | ---|
 | Rims | Giant Alloy |
 | Hubs | Alloy |
