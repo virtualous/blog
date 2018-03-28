@@ -8,12 +8,19 @@ img: GiantFD806.jpg
 categories: [blog, Cycling]
 ---
 
-I got the Giant FD 806 folding bike as an impulse buy. I wanted a folding bike so I can go bi-modal for my Parañaque to Makati commute. After looking at all the bike shops in Pasong Tamo this bike was the best I could buy for my budget. I used it for a month, got tired and stopped.
+I got the Giant FD 806 folding bike as an impulse buy. 
 
+I wanted a folding bike so I can go bi-modal for my Parañaque to Makati commute. 
 
-I then tried again but it felt it was more trouble than it's worth.
+After looking at all the bike shops in Pasong Tamo this bike was the best I could buy with my budget. 
+
+I used it for a month, bike commuting got tired and stopped.
+
+I then tried bike commuting from Parañaque to Makati and back again but it felt it was more trouble than it's worth.
 
 Don't get me wrong, I love using this bike but if you intend to use this bike to commute for 15km straight I wouldn't recommend it.
+
+*Update: The reason why I didn't like this bike for work related bike commute is that it did take some time to get back and I wasn't really good at planning what I was going to bring back then. I had drawing gear, and CrossFit gear and was working in a call center. My pack was heavy and my bike commute times are crazy. I left the house half past midnight and needed to be in Makati by 2am. I then left Makati at noon or close to five pm so the the sun was extremelt hot or the traffic was horrible.*
 
 This bike can take some abuse. I took it to Makati but because it was rush hour, I couldn't find a bus that would give me a ride mostly because it's full of people and I ended up riding it all the way to Parañaque then I got invited by a bike group to join them as we rode back to the Fort, Makati and the final stop is in Manila then back to Parañaque.
 
@@ -80,10 +87,28 @@ I still use it often for short trips.
 I bought myself a rear carrier bag and use that a lot. The advantage of a rear carry is you can bike without a backpack or a belt bag. This doesn't restrict your breathing and everything feels lighter. The downside is that you have to remove it every time you'll leave your bike.
 I tried removing the rear carrier and the mud guards this summer. It felt that the bike got lighter but not that much difference. The place I live in has anti flood walls so I'll need to lift the bike a few times to get it inside the house and I don't feel that much different carrying the bike without the mud guards and the rear carrier.
 
+### Two Years Later
+
+I've taken this bike from Parañaque to Sta. Rosa and the ride was super comfortable compared to using a mountain bike.
+
+I now have a fixed gear and a mountain bike as an alternative but I use this bike for errands that require me to carry things like a heavy backpack.
+
+One advantage of this bike is the posture you are in while riding it. The upright position makes riding while carrying bags are comfortable.
+
+It's not as fast but you get there in a chill, comfortable manner.
+
+It's also good for climbing because ot the small wheels. 
+
+Now that I think about it, the Php 14,000 is worth it for this bike.
+
+I actually now prefer this bike for long rides that are not time sensitive.
+
+This bike is really tough. I haven't repaired or maintained this bike in any major way. I got a flat once. Had the inner tube vulcanized, and also replaced the brake pads. My chain is squeaky though. I've never cleaned it. I might take it to a shop for that or buy a new one if needed. This bike deserves way more love than I give it. 
+
 #### Should you buy it?
 
 
-- For short distance rides about 5-10km -- it's a good bike.
+- For short distance rides about 5-10km, it's a good bike.
 - For bike commute that involves taking it to a bus or a train it'll be more trouble than it's worth.
 
 
@@ -94,6 +119,7 @@ The FD 806 is heavier than I wanted it to be.
 The bike is beautiful. I get a lot of compliments.
 
 The price of the bike is close to double of most of the cheap folding bikes that weighs the same. I really couldn't tell the difference.
+
 My friend tells me that with Php 14,000 I could have gotten a Doppelgänger or paid a little bit more for a Dahon.
 
 #### Some tips:
@@ -105,6 +131,7 @@ My friend tells me that with Php 14,000 I could have gotten a Doppelgänger or p
 - The stock version doesn't come with quick release for the wheels get yourself a 15' wrench.
 - Buy a front and rear light. The cheap ones will do fine. Don't forgeT to
 - Buy a bike lock. The U-Lock is the best but the good ones are expensive. I get by with a Master Lock.
+- Update. You can get a U-Lock from Decathalon for Php 1,000.
 
 
 ![Giant FD 806](https://raw.githubusercontent.com/kevinolega/philippineislandliving/master/images/GiantFD806.jpg "Giant Entry Level Folding Bike")
