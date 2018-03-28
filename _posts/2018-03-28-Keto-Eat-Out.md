@@ -26,7 +26,7 @@ Here are some tips and suggestions to eating out and following the rules of the 
 ### Eatery Suggestions Mainstream
 
 1. Pork Sinigang. (Don't eat the gabi)
-2. Bulalo
+2. Bulalo, Nilaga and Tinola.
 3. Kaldereta (Don't eat the potato)
 4. Beef or Pork Steak
 5. Chicken or Pork Adobo (Get extra eggs if you can)
