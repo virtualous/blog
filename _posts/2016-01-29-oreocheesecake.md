@@ -3,6 +3,7 @@ layout: post
 title: How To Make Baked Oreo Cheesecakes
 date: 2016-01-29 14:25
 author: phislife
+img: oreocheesecake.jpg
 comments: true
 categories: [baking, cake, cheese, cheesecake, cooking lessons, delivery, for sale, Oreo, paranaque, Uncategorized]
 ---
