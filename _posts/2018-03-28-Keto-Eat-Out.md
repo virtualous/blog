@@ -3,6 +3,7 @@ layout: post
 title: How to Get Ketogenic Diet Meals Eating Out in the Philippines
 date: 2018-03-28 17:26
 permalink: /keto-eat-out/ 
+img: keto-cans.JPG
 author: Kevin Olega 
 --- 
 
@@ -70,4 +71,4 @@ Disclaimer. I don't follow super strict Keto. I'm satisfied just not eating rice
 I hope this helps.
 
 Thank you for visiting my site.
-
+![alt text](https://lh3.googleusercontent.com/A-KTt7_xOHGq3S7TESkKR8hwZNHqU8OZ6sNOPcmybtykanq6kqPLsnjLMHcDtajkyzICfkeGW50Xn6YqoAFIhUPUiipJ726EL2eWGZzV5II-1Rzoaj-phLEZSooLN1yqBF6bhSgXmu4=w2400)

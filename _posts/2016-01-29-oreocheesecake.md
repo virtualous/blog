@@ -53,10 +53,8 @@ This cheesecake dish is so amazing and so easy to make an idiot like me can crea
     <li>I ended up reducing the sugar to 65-70 grams and it still tastes perfect.</li>
 </ol>
 
-&nbsp;
 
 If you want to order a box or some lessons on how to make it, let me know. Free delivery only applies to Paranaque.
 
-<a href="http://philippineislandliving.com/oreocheesecake/_karenrealigue__/" rel="attachment wp-att-1488"><img class="alignleft size-full wp-image-1488" src="http://philippineislandliving.com/wp-content/uploads/2016/01/karenrealigue__.jpg" alt="_karenrealigue__" width="640" height="640" /></a>
+![Oreo Cheesecake]({{ site.url }}/assets/oreocheesecake.jpg)
 
-<a href="http://philippineislandliving.com/oreocheesecake/_oreocheesecake__oreo__cheesecake__forsale__makati__paranaque_60_per_piece__/" rel="attachment wp-att-1489"><img class="alignleft size-large wp-image-1489" src="http://philippineislandliving.com/wp-content/uploads/2016/01/oreocheesecake__oreo__cheesecake__forsale__makati__paranaque_60_per_piece__.jpg" alt="_oreocheesecake__oreo__cheesecake__forsale__makati__paranaque_60_per_piece__" width="640" height="640" /></a>

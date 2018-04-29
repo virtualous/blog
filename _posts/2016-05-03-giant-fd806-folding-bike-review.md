@@ -7,20 +7,35 @@ comments: true
 img: GiantFD806.jpg
 categories: [blog, Cycling]
 ---
+The Giant FD 806 is most affordable built bike offered by Giant in the Philippines. 
 
 I got the Giant FD 806 folding bike as an impulse buy. 
 
 I wanted a folding bike so I can go bi-modal for my Parañaque to Makati commute. 
 
+That means I'll take the bike from the house to the bus stop. 
+
+I'll take a bus to get from Parañaque to Makati. 
+
+Take the bike from the Makati bus stop to the office.
+
+Then do the same thing going back.
+
+I imagine saving PHP 70 for each bike commute to work day. 
+
+This will probably get me my investment back after 200 bike to work days which I imagine will take ten months.
+
 After looking at all the bike shops in Pasong Tamo this bike was the best I could buy with my budget. 
 
 I used it for a month, bike commuting got tired and stopped.
 
-I then tried bike commuting from Parañaque to Makati and back again but it felt it was more trouble than it's worth.
+I then tried bike commuting from Parañaque to Makati and back again but the process at the time felt like it was more trouble than it's worth.
 
-Don't get me wrong, I love using this bike but if you intend to use this bike to commute for 15km straight I wouldn't recommend it.
+Don't get me wrong, I love using this bike but if you intend to use this bike to commute for 15km a day straight I wouldn't recommend it.
 
-*Update: The reason why I didn't like this bike for work related bike commute is that it did take some time to get back and I wasn't really good at planning what I was going to bring back then. I had drawing gear, and CrossFit gear and was working in a call center. My pack was heavy and my bike commute times are crazy. I left the house half past midnight and needed to be in Makati by 2am. I then left Makati at noon or close to five pm so the the sun was extremelt hot or the traffic was horrible.*
+*Update: The reason why I didn't like this bike for work related bike commute is that it did take some time to get back and I wasn't really good at planning what I was going to bring back then. I had some heavy art supplies, and CrossFit gear and was working in a call center so I also had three meals worth of packed lunch. My backpack then was heavier than what most people are willing to take on a bike ride and my bike commute times are crazy. I left the house half past midnight and needed to be in Makati by 2am. I then left Makati at noon or close to five pm so the the sun was extremelt hot and/or the traffic was horrible.*
+
+### What I like about the Giant FD 806
 
 This bike can take some abuse. I took it to Makati but because it was rush hour, I couldn't find a bus that would give me a ride mostly because it's full of people and I ended up riding it all the way to Parañaque then I got invited by a bike group to join them as we rode back to the Fort, Makati and the final stop is in Manila then back to Parañaque.
 
