@@ -3,6 +3,7 @@ layout: post
 title: Problems You Might Encounter Biking to Work from Sucat to Makati and Solutions I came up with
 date: 2015-09-04 16:04
 author: phislife
+img: bike-to-work.jpg
 comments: true
 categories: [Uncategorized]
 ---

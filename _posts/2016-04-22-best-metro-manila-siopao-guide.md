@@ -4,9 +4,10 @@ title: Best Metro Manila Siopao Guide
 date: 2016-04-22 20:42
 author: phislife
 comments: true
+img: siopao.JPG
 categories: [blog, Fast Food]
 ---
-<strong>Warning: This post has no photos. Who takes photos of Siopao anyway? They generally look the same.</strong>
+
 
 I like Siopao. It's bread and meat. It's a good snack. Siopao can be a meal replacement if I'm in a rush or I need a quick bite while traveling.
 

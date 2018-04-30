@@ -4,6 +4,7 @@ title: Tips on How to Secure Your Bike
 date: 2016-05-11 16:51
 author: phislife
 comments: true
+img: bike-locked.jpg
 categories: [Uncategorized]
 ---
 I enjoy taking my bike places. It's a way for me to travel around the city without spending money on transportation costs. I often come home at night with my lights on and a smile on my face knowing that I saved money on transportation and had a workout at the same time.&nbsp;&nbsp; 
