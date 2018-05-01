@@ -3,6 +3,7 @@ layout: post
 title: Note Restaurant You Want To Try in Your Phone
 date: 2016-03-25 17:11
 author: phislife
+img: SS-Nihon.jpg
 comments: true
 categories: [Fast Food, Restaurants]
 ---

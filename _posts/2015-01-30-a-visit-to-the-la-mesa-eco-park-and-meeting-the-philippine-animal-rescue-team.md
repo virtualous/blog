@@ -3,10 +3,10 @@ layout: post
 title: A Visit to the La Mesa Eco Park and Meeting the Philippine Animal Rescue Team
 date: 2015-01-30 19:20
 author: phislife
+img: Lamesa.jpg
 comments: true
 categories: [Uncategorized]
 ---
-<strong>The post is written by <a href="http://kevinolega.com">Kevin Olega</a> follow him on <a href="http://twitter.com/kevinolega">twitter</a>.</strong>
 
 A few months ago, I got invited by Euna to an event with the Philippine Animal Rescue Team.
 
