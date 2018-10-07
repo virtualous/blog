@@ -3,9 +3,9 @@ layout: post
 title: Two Weeks of Carnivore Diet in the Philippines
 date: 2018-10-07 04:23
 permalink: /carnivore-diet-philippines-first-attempt/ 
+img: microwavedbeef.jpg
 author: Kevin Olega 
 --- 
-
 I've tried the Ketogenic diet with some success the past few years.
 
 I've cut my waist line from 39 to 34 inches.
