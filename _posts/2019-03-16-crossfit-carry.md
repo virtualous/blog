@@ -1,3 +1,12 @@
+---
+layout: blog
+category: blog
+published: false
+title: hey
+splash: 'http://placehold.it/1600x500'
+tags:
+  - apples
+---
 --- 
 layout: post 
 title: What to Bring to CrossFit for Beginners
