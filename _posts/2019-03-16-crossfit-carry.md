@@ -1,12 +1,11 @@
----
-published: true
----
+
 --- 
 layout: post 
 title: What to Bring to CrossFit for Beginners
 date: 2019-03-16 13:37
-permalink: /crossfit-carry/ 
-author: Kevin  
+author: Kevin 
+comments: true
+categories: [blog, Philippines, Philippines, Uncategorized]
 --- 
 If you're new to CrossFit and don't know what to bring here's a really short list.
 
