@@ -1,57 +1,57 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title: Philippine Island Living
-email: philippineislandliving@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Philippine Lifestyle, Food and Travel by Kevin Olega.
-  
-  
-  
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://philippineislandliving.com" # the base hostname & protocol for your site
-
-#sidebar
-default-image: PIL-sidebar.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
-
-#footer
-built-by: Kevin Olega
-copyright: 2017
-name: Kevin Olega
-link: 'http://philippineislandliving.com'
-
-# Build settings
+baseurl: /blog
+permalink: pretty
 markdown: kramdown
-permalink: /:title/
-paginate: 12
-paginate_path: /page:num/
-
-# Tracker
-analytics: UA-83979019-1
-
-# Comments
-disqus-shortname: philippineislandliving
-
-#social
-facebook: http://facebook.com/philippineislandliving
-quora: http://quora.com/sharathdt
-twitter: http://twitter.com/kevinolega
-github: http://github.com/kevinolega
-
-#facebook like box
-fb-app-id:
-fb-page-url: https://www.facebook.com/philippineislandliving/
-fb-page-title: philippineislandliving
-
-# Sass style
-sass:
-  style: compressed
-
-# Ruby Gems
-gems: [jekyll-paginate, jekyll-seo-tag]
-
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://prose.github.io/starter/'
+  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'media'
+  metadata:
+    _posts:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "splash"
+        field:
+          element: "text"
+          label: "Splash image"
+          value: ""
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Apples"
+              value: "apples"
+            - name: "Bananas"
+              value: "bananas"
+            - name: "Pears"
+              value: "pears"
+            - name: "Mangos"
+              value: "mangos"
+    _posts/static:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
