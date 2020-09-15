@@ -12,6 +12,5 @@ The Philippines is a country composed of a group of 7,100 islands and is one of 
 
 The Philippines is the preferred travel spot of several visitors from Europe, Canada, Australia and the United States because the location is a great place to conduct business or to enjoy a vacation. Most regular travelers say that the Philippines is a favorite because of the land and the people.
 
-The Philippines has the best of both worlds because it has the combination of the attractions of th first world countries and the simplicity and opportunities of a developing country.
-
+The Philippines has the best of both worlds because it has the combination of the attractions of th first world countries and the simplicity and opportunities of a developing country. yo
 </div>
